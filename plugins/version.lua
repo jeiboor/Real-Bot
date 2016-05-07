@@ -11,7 +11,8 @@
 do
 
 function run(msg, matches)
-  return 'Real Bot V1 Supergroups\nAn advanced Administration bot based on TeleGram best bot \n\nDeveloper: @Omar_Real\n https://github.com/Omar-moon/Real-Bot.git GNU GPL v2 license.'
+  return 'Version : 1.7 
+Developer : @Xx_hacker_boy_xX'
 end
 
 return {
